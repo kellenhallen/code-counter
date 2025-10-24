@@ -1,23 +1,14 @@
 # Code Counter
 
-**Автор:**чагдур ЭНЕС ЕФЕ, Группа M3122 
+**Author:** Enes Efe ╟aЁdur, Group M3122  
 
-**Описание:**  
-Скрипт на Python, который подсчитывает общее количество строк, пустые строки и строки с комментариями в открытом файле. Работает как простое расширение для VS Code или другой IDE.
+**Description:**  
+Python script that counts the total number of lines, empty lines, and comment lines in an open file. Works as a simple extension-like tool for VS Code or any other IDE.
 
-**Использование:**  
-1. Откройте терминал в папке проекта.  
-2. Запустите: `python code_counter.py`  
-3. Введите путь к файлу, который хотите проанализировать.  
+---
 
-**Возможности:**  
-- Подсчёт общего количества строк  
-- Подсчёт пустых строк  
-- Подсчёт строк с комментариями (начинаются с `#`)  
-
-**Пример вывода:**  
-```
-Total lines: 10
-Empty lines: 2
-Comment lines: 3
-```
+## Usage
+1. Open the terminal in the project folder.  
+2. Run:  
+```bash
+python code_counter.py
